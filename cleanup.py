@@ -9,4 +9,4 @@ db.query(models.User).delete()
 # Commit changes
 db.commit()
 
-print("✅ All users deleted")
+print(" All users deleted")
